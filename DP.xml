@@ -1,0 +1,24 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>KIU Discrete Probability</title>
+    <itunes:author>Nikoloz Modebadze</itunes:author>
+    <description>
+NoteBookLM podcasts for materials of each week of 
+        <link>https://marble-production-96a.notion.site/Discrete-Probability-Theory-1a466b82471180729424df54504ed352?pvs=4</link>
+    <image>
+        <url>https://i.postimg.cc/3NW6tw1L/affa.png</url>
+        <title>KIU Discrete Probability</title>
+        <link></link>
+    </image>
+    <itunes:image href="https://i.postimg.cc/3NW6tw1L/affa.png" />
+
+    <item>
+        <title>Week 1</title>
+        <description></description>
+        <link></link>
+        <pubDate>Sat, 24 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode0-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&id=11h-C44HkJ8WA_kSrbkgSoEKZarIgWQO_" type="audio/mpeg" length="12345678" />
+    </item>
+</channel>
+</rss>
