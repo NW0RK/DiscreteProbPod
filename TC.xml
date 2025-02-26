@@ -16,8 +16,10 @@ NoteBookLM podcasts for materials of each week of Theory of Computation course a
 
     <item>
         <title>Week 1</title>
-        <description></description>
-        <link></link>
+        <description>Regular Expressions, Finite Automata and Nondeterminism
+        Youtube Vid: https://youtu.be/AuIrFdumqjY?si=QETKsmUMs60U1648
+        </description>
+        <link>https://youtu.be/AuIrFdumqjY?si=QETKsmUMs60U1648</link>
         <pubDate>Sat, 25 Feb 2025 10:00:00 GMT</pubDate>
         <guid isPermaLink="false">episode0-unique-id</guid>
         <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uRYVLChjv48Q1iUc-UeNrDK8anFhk0_o" type="audio/mpeg" length="12345678" />
